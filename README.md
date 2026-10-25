@@ -1,4 +1,4 @@
-# Corazón de papel – Colección de heroínas de anime romántico
+# Purifición de alma– Coleción de chicas de animes de romance
 
 Luis Augusto Lozada Duarte
 Desarrollo de Aplicaciones Web
