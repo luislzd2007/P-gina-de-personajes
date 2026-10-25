@@ -1,0 +1,52 @@
+
+:root {
+  --bulma-primary-h: 339deg;   
+  --bulma-primary-s: 72%;
+  --bulma-primary-l: 56%;
+  --bulma-link-h: 258deg;      
+  --bulma-link-s: 41%;
+  --bulma-link-l: 55%;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+body {
+  background: #fff5f7;
+}
+
+button.card {
+  width: 100%;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  text-align: center;
+  cursor: pointer;
+}
+
+button.card:hover {
+  box-shadow: 0 0.5em 1em -0.125em hsla(339, 72%, 56%, 0.35);
+}
+
+.image img {
+  object-fit: cover;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fbd3e0;
+  color: hsl(339, 72%, 56%);
+  font: 700 2.5rem Georgia, serif;
+}
+
+.aviso {
+  position: fixed;
+  bottom: 1rem;
+  left: 50%;
+  z-index: 30;
+  max-width: 90%;
+  transform: translateX(-50%);
+}
