@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ej-001",
+    "nombre": "Taiga Aisaka",
+    "rol": "Tsundere",
+    "origen": "Toradora!",
+    "imagen": "img/taiga-aisaka.jpg",
+    "descripcion": "Pequeña, explosiva y con un corazón enorme que le cuesta admitir.",
+    "fechaCreacion": "2026-10-14T18:30:00Z"
+  },
+  {
+    "id": "ej-002",
+    "nombre": "Kaguya Shinomiya",
+    "rol": "Kuudere",
+    "origen": "Kaguya-sama: Love is War",
+    "imagen": "img/kaguya-shinomiya.jpg",
+    "descripcion": "Presidenta del consejo estudiantil que libra una guerra para que él se confiese primero.",
+    "fechaCreacion": "2026-10-14T18:31:00Z"
+  },
+  {
+    "id": "ej-003",
+    "nombre": "Mai Sakurajima",
+    "rol": "Kuudere",
+    "origen": "Seishun Buta Yarou",
+    "imagen": "img/mai-sakurajima.jpg",
+    "descripcion": "Actriz que se vuelve invisible por el síndrome de la adolescencia.",
+    "fechaCreacion": "2026-10-14T18:32:00Z"
+  },
+  {
+    "id": "ej-004",
+    "nombre": "Kaori Miyazono",
+    "rol": "Genki",
+    "origen": "Shigatsu wa Kimi no Uso",
+    "imagen": "img/kaori-miyazono.jpg",
+    "descripcion": "Violinista libre que devuelve el color a la vida de un pianista.",
+    "fechaCreacion": "2026-10-14T18:33:00Z"
+  },
+  {
+    "id": "ej-005",
+    "nombre": "Ichika Nakano",
+    "rol": "Onee-san",
+    "origen": "Go-Toubun no Hanayome",
+    "imagen": "img/ichika-nakano.jpg",
+    "descripcion": "Actriz en ascenso y hermana mayor que esconde sus propios sentimientos para cuidar a las demás.",
+    "fechaCreacion": "2026-10-14T18:40:00Z"
+  },
+  {
+    "id": "ej-006",
+    "nombre": "Nino Nakano",
+    "rol": "Tsundere",
+    "origen": "Go-Toubun no Hanayome",
+    "imagen": "img/nino-nakano.jpg",
+    "descripcion": "Segunda hermana, orgullosa y directa, que cocina con esmero aunque lo niegue.",
+    "fechaCreacion": "2026-10-14T18:41:00Z"
+  },
+  {
+    "id": "ej-007",
+    "nombre": "Miku Nakano",
+    "rol": "Dandere",
+    "origen": "Go-Toubun no Hanayome",
+    "imagen": "img/miku-nakano.jpg",
+    "descripcion": "Tímida y apasionada por la historia, que poco a poco se atreve a abrir su corazón.",
+    "fechaCreacion": "2026-10-14T18:42:00Z"
+  },
+  {
+    "id": "ej-008",
+    "nombre": "Yotsuba Nakano",
+    "rol": "Genki",
+    "origen": "Go-Toubun no Hanayome",
+    "imagen": "img/yotsuba-nakano.jpg",
+    "descripcion": "Energética y siempre dispuesta a ayudar, aunque detrás de su sonrisa hay secretos.",
+    "fechaCreacion": "2026-10-14T18:43:00Z"
+  },
+  {
+    "id": "ej-009",
+    "nombre": "Itsuki Nakano",
+    "rol": "Kuudere",
+    "origen": "Go-Toubun no Hanayome",
+    "imagen": "img/itsuki-nakano.jpg",
+    "descripcion": "La menor del grupo, seria y aplicada, con un apetito que contrasta con su disciplina.",
+    "fechaCreacion": "2026-10-14T18:44:00Z"
+  }
+]
